@@ -2,7 +2,7 @@
 title: Bạn có thực sự đam mê lập trình
 date: 2023-01-06 01:34
 tags:
-  - "#fpt#svnam4#laptrinhvien"
+  - "#fpt#svnam4#laptrinhvien#addilo"
 social_image: /media/tim-mossholder-kzcwygxz_j4-unsplash.jpg
 description: Là một sinh viên năm 4 của một trường hàng đầu về công nghệ ở Việt
   Nam. Càng ngày tôi càng nhận ra nó không phù hợp với tôi.
