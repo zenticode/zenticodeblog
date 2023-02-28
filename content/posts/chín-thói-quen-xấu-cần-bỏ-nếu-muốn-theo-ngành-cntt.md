@@ -7,10 +7,7 @@ description: Đây cũng là một thói quen tệ hại và phổ biến không
   những diễn đàn, với những ý kiến và chỉ dẫn bằng tiếng Việt rất cô đọng, rành
   mạch và dễ hiểu nhưng vẫn có quá nhiều người chỉ đọc lướt để rồi quay lại tiếp
   tục thắc mắc. Đây là thói quen cực kỳ nguy hiểm bởi vì nó rèn cho trí não thói
-  quen đọc lướt. Việc này dẫn đến chỗ kiến thức thu thập một cách hời hợt, tạm
-  bợ và chắp vá. Nếu những ý kiến bằng tiếng Việt rất cô đọng, rành mạch và dễ
-  hiểu nhưng vẫn không chịu khó đọc kỹ và suy gẫm thì việc tham khảo, tổng hợp
-  các sách tiếng nước ngoài gần như là vô khả thi.
+  quen đọc lướt.
 ---
 **1. Không chịu đọc tài liệu trước khi dùng**
 
