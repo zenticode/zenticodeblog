@@ -24,7 +24,27 @@ const Header = () => {
     <StyledHeader>
       <HeaderWrapper>
         <HeaderTitle>
-          <Link to="/">{site.siteMetadata.title}</Link>
+          <Link to="/">
+            <span
+              style={{
+                fontSize: 20,
+                display: 'flex',
+                alignItems: 'center',
+                fontWeight: "bold"
+              }}
+            >
+              <img 
+                src="https://zenticode.com/favicon.jpeg" 
+                style={{
+                  width: 45,
+                  height: 45,
+                  borderRadius: 8,
+                  marginRight: "1rem"
+                }}
+              />
+              {site.siteMetadata.title}
+            </span>
+            </Link>
         </HeaderTitle>
 
         <HeaderNavList>
