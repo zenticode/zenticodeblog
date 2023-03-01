@@ -1,6 +1,7 @@
 ---
-template: "index-template"
-title: "Blog Chia Sẻ Tại Zenticode"
+title: Blog Chia Sẻ Tại Zenticode
+template: index-template
+profile_image: /media/zenticodebanner.png
 ---
 
 # Zenticode Blog
