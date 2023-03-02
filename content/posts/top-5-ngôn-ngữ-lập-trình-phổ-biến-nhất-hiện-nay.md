@@ -16,32 +16,16 @@ description: Việc lựa chọn một ngôn ngữ lập trình phù hợp là r
 
 1. Java: Java là ngôn ngữ lập trình phổ biến nhất trên thế giới. Nó được sử dụng rộng rãi trong phát triển ứng dụng web, mobile và máy tính.
 
-   <!--StartFragment-->
-
    ![](https://www.upf.edu/documents/222910037/261564223/python2.png/7b73d5da-bcc5-72e0-db72-f1e763612931?t=1665491363000)
-
-   <!--EndFragment-->
 2. Python: Python được biết đến là một trong những ngôn ngữ lập trình dễ học và sử dụng nhất. Nó được sử dụng trong phát triển web, khoa học dữ liệu và trí tuệ nhân tạo.
 
-   <!--StartFragment-->
-
    ![](https://caodang.fpt.edu.vn/wp-content/uploads/javascript-featured.png)
-
-   <!--EndFragment-->
 3. JavaScript: JavaScript là một ngôn ngữ lập trình được sử dụng rộng rãi trong phát triển web. Nó giúp tạo ra các ứng dụng web động và tương tác.
 
-   <!--StartFragment-->
-
    ![](https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/687167/retina_1708x683_cover-0828_AfterAllTheseYearstheWorldisStillPoweredbyCProgramming_Razvan_Newsletter-2b9ea38294bb08c5aea1f0c1cb06732f.png)
-
-   <!--EndFragment-->
 4. C++: C++ là ngôn ngữ lập trình đa năng, được sử dụng trong nhiều ứng dụng như phát triển game, phần mềm máy tính và hệ thống nhúng.
 
-   <!--StartFragment-->
-
    ![](https://cafedev.vn/wp-content/uploads/2020/08/cafedev_tuhoc_php.png)
-
-   <!--EndFragment-->
 5. PHP: PHP được sử dụng phổ biến trong phát triển ứng dụng web, đặc biệt là những trang web động.
 
 Những ngôn ngữ lập trình này đã được sử dụng rộng rãi và phát triển qua nhiều năm, vì vậy chúng có nhiều tài liệu học tập và hỗ trợ từ cộng đồng. Nếu bạn đang tìm kiếm một ngôn ngữ lập trình để học hoặc phát triển, thì những ngôn ngữ này sẽ là sự lựa chọn tốt.
