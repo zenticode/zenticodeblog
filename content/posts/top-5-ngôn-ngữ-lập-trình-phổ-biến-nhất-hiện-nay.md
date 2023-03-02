@@ -1,12 +1,11 @@
 ---
 title: Top 5 ngôn ngữ lập trình phổ biến nhất hiện nay
 date: 2023-03-02 23:11
-description: Việc lựa chọn một ngôn ngữ lập trình phù hợp là rất quan trọng
-  trong quá trình học và phát triển công nghệ. Hiện nay, có rất nhiều ngôn ngữ
-  lập trình được sử dụng trên toàn thế giới. Tuy nhiên, trong số đó có 5 ngôn
-  ngữ lập trình được đánh giá là phổ biến và có nhiều ứng dụng nhất.
+description: Top 5
 ---
 <!--StartFragment-->
+
+Việc lựa chọn một ngôn ngữ lập trình phù hợp là rất quan trọng trong quá trình học và phát triển công nghệ. Hiện nay, có rất nhiều ngôn ngữ lập trình được sử dụng trên toàn thế giới. Tuy nhiên, trong số đó có 5 ngôn ngữ lập trình được đánh giá là phổ biến và có nhiều ứng dụng nhất.
 
 <!--StartFragment-->
 
