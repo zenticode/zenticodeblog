@@ -7,7 +7,11 @@ description: Trong thời đại công nghệ phát triển với tốc độ ch
   trong lĩnh vực này. Với khả năng xử lý ngôn ngữ tự nhiên, đây là một công cụ
   hữu ích cho nhiều ngành, bao gồm cả lập trình.
 ---
-<https://phuongnam24h.com/img_data/images/chat-gpt-la-gi-tat-tan-tat-nhung-dieu-can-biet-ve-chat-gpt.jpg>
+<!--StartFragment-->
+
+![](https://phuongnam24h.com/img_data/images/chat-gpt-la-gi-tat-tan-tat-nhung-dieu-can-biet-ve-chat-gpt.jpg)
+
+<!--EndFragment-->
 
 Sự ra đời của ChatGPT đã tạo ra những ảnh hưởng tích cực đến ngành lập trình viên. Đầu tiên, ChatGPT đã giúp cho các nhà phát triển phần mềm tiết kiệm thời gian và tăng hiệu quả. Trước đây, các lập trình viên thường phải dành nhiều thời gian để viết các mô tả về phần mềm của họ. Nhưng với ChatGPT, họ có thể tạo ra các bản mô tả tự động và đáng tin cậy, giảm bớt công việc thủ công.
 
