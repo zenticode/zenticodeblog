@@ -1,6 +1,6 @@
 ---
 title: "SEO "
-template: page-template
+template: seo-template
 ---
 
 
