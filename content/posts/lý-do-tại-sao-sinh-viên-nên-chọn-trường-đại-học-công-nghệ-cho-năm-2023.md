@@ -1,6 +1,8 @@
 ---
 title: Lý do tại sao sinh viên nên chọn trường đại học công nghệ cho năm 2023
 date: 2023-03-28 10:51
+tags:
+  - "#daihoc#sinhvien#2023"
 description: Trong thời đại công nghệ ngày nay, ngành công nghệ thông tin và
   truyền thông đang trở thành một trong những lĩnh vực hot nhất. Với sự phát
   triển của kinh tế số, yêu cầu về nhân lực trong lĩnh vực công nghệ càng trở
