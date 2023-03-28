@@ -2,7 +2,7 @@
 title: Các trường đại học công nghệ hàng đầu tại Việt Nam
 date: 2023-03-28 11:08
 tags:
-  - "#daihoc#2023"
+  - "#daihoc#2023#sinhvien"
 description: Việt Nam đang trở thành một trong những nước có tốc độ phát triển
   công nghệ nhanh nhất thế giới. Điều này đặt ra một nhu cầu tuyển dụng nhân lực
   trong ngành công nghệ thông tin và truyền thông ngày càng cao. Vì vậy, việc
